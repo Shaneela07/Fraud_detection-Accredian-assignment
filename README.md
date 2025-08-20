@@ -95,10 +95,6 @@ Model Used: XGBoost Classifier
 Key Metrics: ROC-AUC, F1-score, Precision/Recall
 
 Outcome: Identified important fraud predictors and designed a framework for proactive prevention.
-
-<img width="680" height="373" alt="image" src="https://github.com/user-attachments/assets/33626862-058a-46dd-870b-65e0b00a9640" />
-<img width="718" height="543" alt="image" src="https://github.com/user-attachments/assets/f5048459-6652-4745-941c-70715f12eeb8" />
-<img width="721" height="387" alt="image" src="https://github.com/user-attachments/assets/f83671d8-1085-40c4-81b7-417abce99c47" />
-
+<img width="651" height="453" alt="image" src="https://github.com/user-attachments/assets/3e27c85b-5baa-44fc-906d-f1ed8e2de812" />
 
 
