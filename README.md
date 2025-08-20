@@ -96,3 +96,8 @@ Key Metrics: ROC-AUC, F1-score, Precision/Recall
 
 Outcome: Identified important fraud predictors and designed a framework for proactive prevention.
 
+<img width="718" height="543" alt="image" src="https://github.com/user-attachments/assets/f5048459-6652-4745-941c-70715f12eeb8" />
+<img width="721" height="387" alt="image" src="https://github.com/user-attachments/assets/f83671d8-1085-40c4-81b7-417abce99c47" />
+
+
+
