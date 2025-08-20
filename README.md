@@ -31,6 +31,7 @@ Dataset: Fraud.csv
 **🛠️ Project Workflow**
 
 1. Data Cleaning & Preprocessing
+   -------------------------------
 
 Handled missing values and outliers.
 
@@ -41,6 +42,7 @@ Checked for multicollinearity and dropped redundant features.
 Normalized features for consistent scaling.
 
 2. Exploratory Data Analysis (EDA)
+   --------------------------------
 
 Visualized distributions of key variables.
 
@@ -49,6 +51,7 @@ Analyzed fraud vs non-fraud class balance.
 Identified patterns that separate fraudulent from normal transactions.
 
 3. Model Development
+   ------------------
 
 Train-test split applied.
 
@@ -57,6 +60,7 @@ Baseline models tested for comparison.
 XGBoost Classifier chosen for final training (handles imbalance well, strong performance).
 
 4. Model Evaluation
+   ------------------
 
 Classification Report generated (Precision, Recall, F1-score).
 
@@ -65,6 +69,7 @@ ROC-AUC Curve plotted to evaluate discriminative ability.
 Achieved strong performance on fraud detection with meaningful trade-off between recall (catching frauds) and precision (avoiding false alarms).
 
 5. Feature Importance & Insights
+   -------------------------------
 
 Extracted top predictors of fraud from the trained XGBoost model.
 
@@ -73,6 +78,7 @@ Interpreted whether these features make intuitive business sense.
 Connected data-driven insights with domain-level fraud prevention strategies.
 
 6. Actionable Recommendations
+   ----------------------------
 
 Strengthen monitoring on high-risk transaction features.
 
@@ -90,7 +96,3 @@ Key Metrics: ROC-AUC, F1-score, Precision/Recall
 
 Outcome: Identified important fraud predictors and designed a framework for proactive prevention.
 
-
-🚀 How to Run
-
-Clone repo and install dependencies:
