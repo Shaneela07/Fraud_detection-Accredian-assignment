@@ -28,7 +28,7 @@ Content: Transaction-level data with features relevant to fraud prediction
 
 Dataset: Fraud.csv
 
-⚠️ Note: Fraud datasets are typically imbalanced, with far fewer fraud cases compared to legitimate transactions.
+Note: Fraud datasets are typically imbalanced, with far fewer fraud cases compared to legitimate transactions.
 
 **🛠️ Project Workflow**
 ----------------------------
