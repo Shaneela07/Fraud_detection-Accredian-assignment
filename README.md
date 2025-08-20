@@ -26,7 +26,7 @@ Size: ~6.36M rows × 10 columns
 
 Content: Transaction-level data with features relevant to fraud prediction
 
-Dataset: Fraud.csv
+Dataset: Fraud.csv(unable to upload here because of the file size)
 
 Note: Fraud datasets are typically imbalanced, with far fewer fraud cases compared to legitimate transactions.
 
@@ -95,6 +95,9 @@ Model Used: XGBoost Classifier
 Key Metrics: ROC-AUC, F1-score, Precision/Recall
 
 Outcome: Identified important fraud predictors and designed a framework for proactive prevention.
-<img width="651" height="453" alt="image" src="https://github.com/user-attachments/assets/3e27c85b-5baa-44fc-906d-f1ed8e2de812" />
+
+
+<img width="718" height="543" alt="image" src="https://github.com/user-attachments/assets/6a46aead-b4e9-4d21-9aab-736a64beb3f8" />
+
 
 
